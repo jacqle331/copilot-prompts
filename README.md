@@ -14,15 +14,15 @@ Meetings, planning, summarizing, and staying organized.
 
 ### ✍️ Writing & Communication
 Emails, posts, messaging, and presentations.
-- _(coming soon)_
+- [Write a LinkedIn Post](./prompts/write-linkedin-post.md) — turn an idea or win into an engaging post in your voice
 
 ### 🔍 Research & Analysis
 Gathering information, comparing options, and summarizing findings.
-- _(coming soon)_
+- [Compare Options in a Decision Table](./prompts/compare-options-decision-table.md) — weigh choices side by side with a clear recommendation
 
 ### 🌱 Career & Leadership
 Coaching, feedback, growth, and reflection.
-- _(coming soon)_
+- [Prepare for a Coaching Conversation](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
 
 ## How to use a prompt
 
