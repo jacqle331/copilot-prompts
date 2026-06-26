@@ -26,6 +26,7 @@ Gathering information, comparing options, and summarizing findings.
 ### 🌱 Career & Leadership
 Coaching, feedback, growth, and reflection.
 - [Prepare for a Coaching Conversation](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
+- [Visualize Your Work Life & Next-Step Roles](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
 
 ## How to use a prompt
 
