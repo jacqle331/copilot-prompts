@@ -7,7 +7,7 @@
 
 <br>
 
-![Prompts](https://img.shields.io/badge/prompts-8-blueviolet?style=for-the-badge)
+![Prompts](https://img.shields.io/badge/prompts-11-blueviolet?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -31,6 +31,7 @@
 *Meetings, planning, summarizing, and staying organized.*
 - [**Summarize Meeting Notes**](./prompts/summarize-meeting-notes.md) — turn raw notes into a clean summary with decisions and action items
 - [**Close Out the Week and Plan Monday**](./prompts/close-out-week-plan-monday.md) — wrap up the week and walk into Monday with a focused plan
+- [**Prioritize Your Task List**](./prompts/prioritize-task-list.md) — rank your to-dos by importance, effort, and deadline so you know what to do first
 
 ### ✍️ Writing & Communication
 *Emails, posts, messaging, and presentations.*
@@ -46,6 +47,8 @@
 *Coaching, feedback, growth, and reflection.*
 - [**Prepare for a Coaching Conversation**](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
 - [**Visualize Your Work Life & Next-Step Roles**](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
+- [**Improve Cross-Functional Collaboration**](./prompts/improve-cross-functional-collaboration.md) — diagnose friction and build a plan for teams to work better together
+- [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
 
 ## 🙌 Contributing
 
