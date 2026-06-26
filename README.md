@@ -57,7 +57,7 @@
 ### 🌱 Career & Leadership
 *Coaching, feedback, growth, and reflection.*
 - [**Prepare for a Coaching Conversation**](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
-- [**Create an Impact Map (Visual Career Map)**](./prompts/impact-map.md) — generate a whiteboard-style one-page map of your impact, values, and growth path, with your headshot blended in
+- [**Create an Impact Map (Visual Career Map)**](./prompts/impact-map.md) — generate a whiteboard-style one-page map of your impact, values, and growth path, with your headshot blended in ([see a real example](./prompts/examples/impact-map-example.png))
 - [**Improve Cross-Functional Collaboration**](./prompts/improve-cross-functional-collaboration.md) — diagnose friction and build a plan for teams to work better together
 - [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
 

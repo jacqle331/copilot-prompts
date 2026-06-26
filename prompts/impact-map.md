@@ -51,9 +51,13 @@ Additional input:
 
 ## Example
 
+Here's a real Impact Map created with this prompt:
+
+![Example Impact Map](./examples/impact-map-example.png)
+
 **Input:** Your uploaded headshot, a short paragraph about your work and values, and a filled-in TODAY → NEXT → FUTURE growth path.
 
-**Output:** A one-page whiteboard-style Impact Map with your photo blended in, your work life mapped out, and a prominent left-to-right growth path.
+**Output:** A one-page whiteboard-style Impact Map with your photo blended in, your work life mapped out, and a prominent left-to-right growth path (like the example above).
 
 ## Tips
 
