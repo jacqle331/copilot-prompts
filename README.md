@@ -7,7 +7,7 @@
 
 <br>
 
-![Prompts](https://img.shields.io/badge/prompts-16-blueviolet?style=for-the-badge)
+![Prompts](https://img.shields.io/badge/prompts-25-blueviolet?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -32,11 +32,18 @@
 - [**Summarize Meeting Notes**](./prompts/summarize-meeting-notes.md) — turn raw notes into a clean summary with decisions and action items
 - [**Close Out the Week and Plan Monday**](./prompts/close-out-week-plan-monday.md) — wrap up the week and walk into Monday with a focused plan
 - [**Prioritize Your Task List**](./prompts/prioritize-task-list.md) — rank your to-dos by importance, effort, and deadline so you know what to do first
+- [**Tame Your Inbox**](./prompts/tame-your-inbox.md) — triage a pile of emails into reply-now, delegate, wait, or archive (with draft replies)
+- [**Plan a Project or Initiative**](./prompts/plan-a-project.md) — turn a goal into phases, milestones, owners, and a realistic timeline
+- [**Run a Better Meeting**](./prompts/run-a-better-meeting.md) — build a tight, timeboxed agenda with clear objectives and outcomes
 
 ### ✍️ Writing & Communication
 *Emails, posts, messaging, and presentations.*
 - [**Write a LinkedIn Post**](./prompts/write-linkedin-post.md) — turn an idea or win into an engaging post in your voice
 - [**Draft an Executive Summary or Status Recap**](./prompts/draft-exec-summary-recap.md) — turn details into a crisp, executive-ready update
+- [**Write a Professional Email**](./prompts/write-professional-email.md) — draft clear, well-toned emails for any work situation
+- [**Turn Notes into a Presentation Outline**](./prompts/notes-to-presentation-outline.md) — go from rough thoughts to a structured slide flow
+- [**Rewrite for Tone & Clarity**](./prompts/rewrite-for-tone-clarity.md) — polish any message to be clearer, warmer, or more concise
+- [**Difficult Message, Said Well**](./prompts/difficult-message-said-well.md) — draft sensitive or tough messages with empathy and tact
 
 ### 🔍 Research & Analysis
 *Gathering information, comparing options, and summarizing findings.*
@@ -44,11 +51,13 @@
 - [**Evaluate the Success of a GTM Program**](./prompts/evaluate-gtm-program.md) — assess program performance against goals and decide what's next
 - [**Analyze a Dataset for Insights**](./prompts/analyze-dataset-for-insights.md) — pull trends, outliers, and takeaways out of your data in plain language
 - [**Find the Story in Your Numbers**](./prompts/find-the-story-in-your-numbers.md) — turn raw metrics into a clear, memorable narrative
+- [**Summarize a Long Document or Report**](./prompts/summarize-long-document.md) — distill a dense doc into key points, takeaways, and actions
+- [**Research a Topic Quickly**](./prompts/research-a-topic-quickly.md) — get a structured briefing with key facts, players, and smart questions
 
 ### 🌱 Career & Leadership
 *Coaching, feedback, growth, and reflection.*
 - [**Prepare for a Coaching Conversation**](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
-- [**Visualize Your Work Life & Next-Step Roles**](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
+- [**Create an Impact Map (Visual Career Map)**](./prompts/impact-map.md) — generate a whiteboard-style one-page map of your impact, values, and growth path, with your headshot blended in
 - [**Improve Cross-Functional Collaboration**](./prompts/improve-cross-functional-collaboration.md) — diagnose friction and build a plan for teams to work better together
 - [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
 
