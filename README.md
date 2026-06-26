@@ -11,14 +11,17 @@ Each prompt lives in the [`prompts/`](./prompts) folder as its own Markdown file
 ### 📊 Productivity
 Meetings, planning, summarizing, and staying organized.
 - [Summarize Meeting Notes](./prompts/summarize-meeting-notes.md) — turn raw notes into a clean summary with decisions and action items
+- [Close Out the Week and Plan Monday](./prompts/close-out-week-plan-monday.md) — wrap up the week and walk into Monday with a focused plan
 
 ### ✍️ Writing & Communication
 Emails, posts, messaging, and presentations.
 - [Write a LinkedIn Post](./prompts/write-linkedin-post.md) — turn an idea or win into an engaging post in your voice
+- [Draft an Executive Summary or Status Recap](./prompts/draft-exec-summary-recap.md) — turn details into a crisp, executive-ready update
 
 ### 🔍 Research & Analysis
 Gathering information, comparing options, and summarizing findings.
 - [Compare Options in a Decision Table](./prompts/compare-options-decision-table.md) — weigh choices side by side with a clear recommendation
+- [Evaluate the Success of a GTM Program](./prompts/evaluate-gtm-program.md) — assess program performance against goals and decide what's next
 
 ### 🌱 Career & Leadership
 Coaching, feedback, growth, and reflection.
