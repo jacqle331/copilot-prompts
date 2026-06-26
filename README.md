@@ -53,7 +53,7 @@
 - [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
 
 ### 🎨 Creativity & Fun
-*Lighter prompts for work — team building, celebration, and creative spark.*
+*Lighter prompts for work and life — team building, celebration, and creative spark.*
 - [**Plan a Team Icebreaker or Energizer**](./prompts/plan-team-icebreaker.md) — get inclusive, tailored icebreakers for any meeting or offsite
 - [**Write a Team Celebration or Shout-Out**](./prompts/write-team-celebration-shoutout.md) — craft warm, specific recognition that doesn't sound generic
 - [**Brainstorm Names for a Project or Program**](./prompts/brainstorm-project-names.md) — generate creative, on-theme name ideas with a top-3 pick
