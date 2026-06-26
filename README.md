@@ -1,43 +1,65 @@
-# Copilot Prompts
+<div align="center">
 
-A community library of helpful, reusable prompts. Browse, copy, adapt, and share.
+# ✨ Copilot Prompts ✨
 
-## What's inside
+### A community library of helpful, reusable AI prompts.
+#### Browse · Copy · Adapt · Share
 
-Each prompt lives in the [`prompts/`](./prompts) folder as its own Markdown file. Every prompt follows a simple, consistent format so it's easy to scan and reuse.
+<br>
 
-## Browse prompts
+![Prompts](https://img.shields.io/badge/prompts-8-blueviolet?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)
+
+</div>
+
+---
+
+> 💡 **What is this?** A growing collection of ready-to-use prompts for work and life — from wrapping up your week to writing a sharp exec summary. Each one is tested, copy-paste ready, and written in plain language. No coding required.
+
+## 🚀 How to use a prompt
+
+1. Find a prompt in the categories below (or browse the [`prompts/`](./prompts) folder).
+2. Click it, then copy the prompt text.
+3. Fill in any `{{placeholders}}` with your own details.
+4. Paste it into your favorite AI assistant — and go! ✨
+
+## 📚 Browse prompts
 
 ### 📊 Productivity
-Meetings, planning, summarizing, and staying organized.
-- [Summarize Meeting Notes](./prompts/summarize-meeting-notes.md) — turn raw notes into a clean summary with decisions and action items
-- [Close Out the Week and Plan Monday](./prompts/close-out-week-plan-monday.md) — wrap up the week and walk into Monday with a focused plan
+*Meetings, planning, summarizing, and staying organized.*
+- [**Summarize Meeting Notes**](./prompts/summarize-meeting-notes.md) — turn raw notes into a clean summary with decisions and action items
+- [**Close Out the Week and Plan Monday**](./prompts/close-out-week-plan-monday.md) — wrap up the week and walk into Monday with a focused plan
 
 ### ✍️ Writing & Communication
-Emails, posts, messaging, and presentations.
-- [Write a LinkedIn Post](./prompts/write-linkedin-post.md) — turn an idea or win into an engaging post in your voice
-- [Draft an Executive Summary or Status Recap](./prompts/draft-exec-summary-recap.md) — turn details into a crisp, executive-ready update
+*Emails, posts, messaging, and presentations.*
+- [**Write a LinkedIn Post**](./prompts/write-linkedin-post.md) — turn an idea or win into an engaging post in your voice
+- [**Draft an Executive Summary or Status Recap**](./prompts/draft-exec-summary-recap.md) — turn details into a crisp, executive-ready update
 
 ### 🔍 Research & Analysis
-Gathering information, comparing options, and summarizing findings.
-- [Compare Options in a Decision Table](./prompts/compare-options-decision-table.md) — weigh choices side by side with a clear recommendation
-- [Evaluate the Success of a GTM Program](./prompts/evaluate-gtm-program.md) — assess program performance against goals and decide what's next
+*Gathering information, comparing options, and summarizing findings.*
+- [**Compare Options in a Decision Table**](./prompts/compare-options-decision-table.md) — weigh choices side by side with a clear recommendation
+- [**Evaluate the Success of a GTM Program**](./prompts/evaluate-gtm-program.md) — assess program performance against goals and decide what's next
 
 ### 🌱 Career & Leadership
-Coaching, feedback, growth, and reflection.
-- [Prepare for a Coaching Conversation](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
-- [Visualize Your Work Life & Next-Step Roles](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
+*Coaching, feedback, growth, and reflection.*
+- [**Prepare for a Coaching Conversation**](./prompts/prepare-coaching-conversation.md) — build supportive, specific talking points for a 1:1
+- [**Visualize Your Work Life & Next-Step Roles**](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
 
-## How to use a prompt
+## 🙌 Contributing
 
-1. Open the [`prompts/`](./prompts) folder.
-2. Find a prompt that fits your need.
-3. Copy the prompt text, fill in any `{{placeholders}}`, and paste it into your AI assistant of choice.
+Got a prompt that works well? **Please share it!** 🎉
 
-## Contributing
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the quick steps, and use [`prompts/_TEMPLATE.md`](./prompts/_TEMPLATE.md) as your starting point. Every great prompt makes this library more useful for everyone.
 
-Got a prompt that works well? Please share it! See [CONTRIBUTING.md](./CONTRIBUTING.md) for the quick steps, and use [`prompts/_TEMPLATE.md`](./prompts/_TEMPLATE.md) as your starting point.
+## 📄 License
 
-## License
+Released under the [MIT License](./LICENSE) — use these prompts freely.
 
-Released under the [MIT License](./LICENSE). Use these prompts freely.
+<div align="center">
+<br>
+
+**Found this useful? ⭐ Star the repo and share it with your network!**
+
+</div>
