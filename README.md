@@ -7,7 +7,7 @@
 
 <br>
 
-![Prompts](https://img.shields.io/badge/prompts-11-blueviolet?style=for-the-badge)
+![Prompts](https://img.shields.io/badge/prompts-16-blueviolet?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -42,6 +42,8 @@
 *Gathering information, comparing options, and summarizing findings.*
 - [**Compare Options in a Decision Table**](./prompts/compare-options-decision-table.md) — weigh choices side by side with a clear recommendation
 - [**Evaluate the Success of a GTM Program**](./prompts/evaluate-gtm-program.md) — assess program performance against goals and decide what's next
+- [**Analyze a Dataset for Insights**](./prompts/analyze-dataset-for-insights.md) — pull trends, outliers, and takeaways out of your data in plain language
+- [**Find the Story in Your Numbers**](./prompts/find-the-story-in-your-numbers.md) — turn raw metrics into a clear, memorable narrative
 
 ### 🌱 Career & Leadership
 *Coaching, feedback, growth, and reflection.*
@@ -49,6 +51,12 @@
 - [**Visualize Your Work Life & Next-Step Roles**](./prompts/visualize-work-life-next-roles.md) — generate a whiteboard-style career map with aspirational next roles
 - [**Improve Cross-Functional Collaboration**](./prompts/improve-cross-functional-collaboration.md) — diagnose friction and build a plan for teams to work better together
 - [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
+
+### 🎨 Creativity & Fun
+*Lighter prompts for work — team building, celebration, and creative spark.*
+- [**Plan a Team Icebreaker or Energizer**](./prompts/plan-team-icebreaker.md) — get inclusive, tailored icebreakers for any meeting or offsite
+- [**Write a Team Celebration or Shout-Out**](./prompts/write-team-celebration-shoutout.md) — craft warm, specific recognition that doesn't sound generic
+- [**Brainstorm Names for a Project or Program**](./prompts/brainstorm-project-names.md) — generate creative, on-theme name ideas with a top-3 pick
 
 ## 🙌 Contributing
 
