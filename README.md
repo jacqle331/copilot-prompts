@@ -7,7 +7,7 @@
 
 <br>
 
-![Prompts](https://img.shields.io/badge/prompts-25-blueviolet?style=for-the-badge)
+![Prompts](https://img.shields.io/badge/prompts-30-blueviolet?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -35,6 +35,7 @@
 - [**Tame Your Inbox**](./prompts/tame-your-inbox.md) — triage a pile of emails into reply-now, delegate, wait, or archive (with draft replies)
 - [**Plan a Project or Initiative**](./prompts/plan-a-project.md) — turn a goal into phases, milestones, owners, and a realistic timeline
 - [**Run a Better Meeting**](./prompts/run-a-better-meeting.md) — build a tight, timeboxed agenda with clear objectives and outcomes
+- [**Build a Time-Blocked Daily Plan**](./prompts/build-time-blocked-day.md) — turn your priorities and meetings into a realistic hour-by-hour day with protected focus time
 
 ### ✍️ Writing & Communication
 *Emails, posts, messaging, and presentations.*
@@ -44,6 +45,7 @@
 - [**Turn Notes into a Presentation Outline**](./prompts/notes-to-presentation-outline.md) — go from rough thoughts to a structured slide flow
 - [**Rewrite for Tone & Clarity**](./prompts/rewrite-for-tone-clarity.md) — polish any message to be clearer, warmer, or more concise
 - [**Difficult Message, Said Well**](./prompts/difficult-message-said-well.md) — draft sensitive or tough messages with empathy and tact
+- [**Write a Persuasive Business Case**](./prompts/write-persuasive-business-case.md) — turn an idea or ask into a decision-ready, one-page case
 
 ### 🔍 Research & Analysis
 *Gathering information, comparing options, and summarizing findings.*
@@ -53,6 +55,7 @@
 - [**Find the Story in Your Numbers**](./prompts/find-the-story-in-your-numbers.md) — turn raw metrics into a clear, memorable narrative
 - [**Summarize a Long Document or Report**](./prompts/summarize-long-document.md) — distill a dense doc into key points, takeaways, and actions
 - [**Research a Topic Quickly**](./prompts/research-a-topic-quickly.md) — get a structured briefing with key facts, players, and smart questions
+- [**Pressure-Test an Idea (Red Team)**](./prompts/pressure-test-an-idea.md) — stress-test a plan to find assumptions, risks, and objections before others do
 
 ### 🌱 Career & Leadership
 *Coaching, feedback, growth, and reflection.*
@@ -60,12 +63,14 @@
 - [**Create an Impact Map (Visual Career Map)**](./prompts/impact-map.md) — generate a whiteboard-style one-page map of your impact, values, and growth path, with your headshot blended in ([see a real example](./prompts/examples/impact-map-example.png))
 - [**Improve Cross-Functional Collaboration**](./prompts/improve-cross-functional-collaboration.md) — diagnose friction and build a plan for teams to work better together
 - [**Prepare for Your Manager 1:1 (Weekly)**](./prompts/prepare-manager-1-1.md) — turn your week into a focused, high-impact 1:1 agenda
+- [**Write Your Self-Reflection or Year-End Review**](./prompts/write-self-reflection-review.md) — turn your wins and growth into a confident, evidence-based self-review
 
 ### 🎨 Creativity & Fun
 *Lighter prompts for work and life — team building, celebration, and creative spark.*
 - [**Plan a Team Icebreaker or Energizer**](./prompts/plan-team-icebreaker.md) — get inclusive, tailored icebreakers for any meeting or offsite
 - [**Write a Team Celebration or Shout-Out**](./prompts/write-team-celebration-shoutout.md) — craft warm, specific recognition that doesn't sound generic
 - [**Brainstorm Names for a Project or Program**](./prompts/brainstorm-project-names.md) — generate creative, on-theme name ideas with a top-3 pick
+- [**Plan a Themed Team Event or Offsite**](./prompts/plan-themed-team-event.md) — design a fun, inclusive event with a theme, run-of-show, and activities
 
 ## 🙌 Contributing
 
